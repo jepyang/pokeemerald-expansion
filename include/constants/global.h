@@ -127,7 +127,7 @@
 
 #define MALE 0
 #define FEMALE 1
-#define NONBINARY 2
+#define ENBY 2
 #define GENDER_COUNT 3
 
 #define BARD_SONG_LENGTH       6
